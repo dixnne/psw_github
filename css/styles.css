@@ -1,0 +1,35 @@
+#bootstrap-override.bg-color{
+    background-color: #F5F5F5;
+}
+
+#bootstrap-override .bg-color1{
+    background-color: #363062;
+}
+
+#bootstrap-override .bg-color2{
+    background-color: #4D4C7D;
+}
+
+#bootstrap-override .bg-color3{
+    background-color: #3D246C;
+}
+
+#bootstrap-override .bg-color4{
+    background-color: #F5F5F5;
+}
+
+#bootstrap-override .color1{
+    color: #363062;
+}
+
+#bootstrap-override .color2{
+    color: #4D4C7D;
+}
+
+#bootstrap-override .color3{
+    color: #3D246C;
+}
+
+#bootstrap-override .color4{
+    color: #F5F5F5;
+}
